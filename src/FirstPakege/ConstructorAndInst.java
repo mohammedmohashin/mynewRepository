@@ -1,6 +1,10 @@
 package FirstPakege;
 
-import java.util.concurrent.Callable;
+  import org.apache.poi.xddf.usermodel.TileFlipMode;
+
+  import java.util.concurrent.Callable;
+
+  import static org.apache.poi.xddf.usermodel.TileFlipMode.X;
 
 public class ConstructorAndInst {
     // A constructor in java is a special method that is used to initialize object.
@@ -19,13 +23,12 @@ public class ConstructorAndInst {
 
         //Anothor Way of creating new object
 
-  X
-            }
+        X
+    }
         }
         new ConstructorAndInst().str ="hello";
         new ConstructorAndInst().str ="hi";
 
 
-        XS
 
     }
